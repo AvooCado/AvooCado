@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AvooCado
+- 👀 I’m interested in Cars, Electronics and combining them :)
+- 🌱 I’m currently learning C for Arduino
+- 📫 How to reach me ... you will find a way ;)
